@@ -85,6 +85,17 @@
         "Season Runner Up": "	Gurmeet Rehal",
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "Sat and sun  7:00"
+    }.
+    
+    {
+        "Id": 9,
+        "Show Name": "Ace of Space",
+        "Season number": "Season 1",
+        "Number of Contestants": "20",
+        "Season Winner": "Divya Agarwal",
+        "Season Runner Up": "Divya Agarwal",
+        "Broadcasting Channel": "voot",
+        "Broadcasting Time": "Sat 7:00"
     }
 
 ]
