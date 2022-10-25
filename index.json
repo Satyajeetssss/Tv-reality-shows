@@ -38,9 +38,46 @@
         "Season Runner Up": "Ashish and Miesha",
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "Sat 7:00"
-    }
+    },
+
     {
         "Id": 5,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 10",
+        "Number of Contestants": "21",
+        "Season Winner": "Baseer Ali Naina Singh",
+        "Season Runner Up": "Priyank Sharma Divya Agarwal",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
+    },
+
+
+    {
+        "Id": 6,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 8",
+        "Number of Contestants": "32",
+        "Season Winner": "Anuki Tchokhonelidze and Prince Narula",
+        "Season Runner Up": "	Utkarsh Gupta and Sana Sayyad",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
+    },
+
+     {
+        "Id": 7,
+        "Show Name": "Love School",
+        "Season number": "Season 4",
+        "Number of Contestants": "16",
+        "Season Winner": "Sunny and manpreet",
+        "Season Runner Up": "Sood-Poojan Solanki and Asheema Chauhaan-Ali Raza",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "sat 10:00"
+
+
+    },
+
+    {
+        "Id": 8,
         "Show Name": "Roadies",
         "Season number": "Season 12",
         "Number of Contestants": "22",
@@ -49,4 +86,5 @@
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "Sat and sun  7:00"
     }
+
 ]
