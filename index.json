@@ -39,6 +39,17 @@
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "Sat 7:00"
     },
+
+    {
+        "Id": 5,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 8",
+        "Number of Contestants": "32",
+        "Season Winner": "Anuki Tchokhonelidze and Prince Narula",
+        "Season Runner Up": "	Utkarsh Gupta and Sana Sayyad",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
+
      {
         "Id": 5,
         "Show Name": "Love School",
@@ -48,5 +59,6 @@
         "Season Runner Up": "Sood-Poojan Solanki and Asheema Chauhaan-Ali Raza",
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "sat 10:00"
+
     }
 ]
