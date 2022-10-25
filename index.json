@@ -38,5 +38,15 @@
         "Season Runner Up": "Ashish and Miesha",
         "Broadcasting Channel": "MTV",
         "Broadcasting Time": "Sat 7:00"
+    },
+    {
+        "Id": 7,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 10",
+        "Number of Contestants": "21",
+        "Season Winner": "Baseer Ali Naina Singh",
+        "Season Runner Up": "Priyank Sharma Divya Agarwal",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
     }
 ]
